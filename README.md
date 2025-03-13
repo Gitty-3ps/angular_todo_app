@@ -1,6 +1,9 @@
 # FirstNgApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
+![todo_app_screen_shot_1](https://github.com/user-attachments/assets/1ade80cf-244e-433e-a1d0-b93d074f1b00)
+![todo_app_screen_shot_2](https://github.com/user-attachments/assets/5909e751-d032-4d3c-893d-7d95aa3c89c4)
+
 
 ## Development server
 
